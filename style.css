@@ -275,7 +275,7 @@ h2 {
     /* Vurgu Rengi Kırmızıda Kalır */
     background: linear-gradient(135deg, #444444 0%, #333333 100%);
     color: #FFFFFF;
-    box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2);
 }
 
 .btn-primary:hover {
